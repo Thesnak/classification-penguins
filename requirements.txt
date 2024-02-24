@@ -1,0 +1,6 @@
+streamlit
+pillow
+numpy
+pandas
+pickle
+scikit-learn=1.3.0
